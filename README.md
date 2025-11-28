@@ -77,4 +77,8 @@ npm test
 ```
 
 ## 👥 Contributors
-- [Your Name/Group Members]
+- WASIKE JAMES DANIEL
+- MWIMA MABLE
+- ADONG ESTHER
+- MUKUNZI TREVOR
+- ELONGU KENNETH
